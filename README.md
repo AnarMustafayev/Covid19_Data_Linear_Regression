@@ -1,0 +1,2 @@
+This project utilizes a linear regression model to predict the next 7 days' confirmed, infected, recovered, and death counts based on the covid_19_data.csv. The goal is to provide insights into the potential trend of COVID-19 cases. 
+Here I developed a linear regression model and evaluated the performance of models by different metrics. In final stage using this model I predicted the next 7 days' confirmed, infected, recovered, and death counts.
